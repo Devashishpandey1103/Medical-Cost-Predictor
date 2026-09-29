@@ -1,3 +1,0 @@
-"""
-Medical-Cost-Predictor Module
-"""
